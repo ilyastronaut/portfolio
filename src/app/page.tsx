@@ -1,4 +1,5 @@
 import ProfileSection from "@/components/profile-section";
+import AboutSection from "@/components/about-section";
 
 export default function Home() {
   return (
